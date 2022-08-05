@@ -1,4 +1,4 @@
-# Auto-playlist
+# Auto-playlist :notes:
 
 ## The Project
 
